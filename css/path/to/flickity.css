@@ -1,6 +1,9 @@
 /*! Flickity v1.1.1
 http://flickity.metafizzy.co
 ---------------------------------------------- */
+* {
+  box-sizing: border-box;
+}
 
 .flickity-enabled {
   position: relative;
