@@ -237,15 +237,6 @@ FIRST SECTION OF POSTS
   opacity: 1;
 }
 
-/*.blogpost-box:hover .postlink {
-  color: black;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-family: "jenna_sueregular", sans-serif;
-  font-size: 60px;
-  opacity: 1;
-}*/
-
 
 #kenwood1 {
   background: url("../images/KenwoodHouse1.jpg") center no-repeat;
@@ -264,12 +255,6 @@ FIRST SECTION OF POSTS
 /*********************
 SECOND SECTION OF POSTS
 **********************/
-/*.section-2 {
-  height: 300px;
-  width: 960px;
-  margin: 20px auto;*/
-
-/*}*/
 
 #birthday1 {
    background: url("../images/Birthday1.jpeg");
@@ -360,12 +345,7 @@ footer {
   height: 30px;
   width: 30px;
   margin-top: 10px;
-  /*margin-left: 20px;
-  margin-right: 60px;*/
 }
-
-
-
 
 
 .copyright {
@@ -678,6 +658,7 @@ textarea {
   font-size: 18px;
   color: black;
   font-family: "Josefin Sans", cursive;
+  margin-top: 10px;
 }
 
 textarea:focus {
@@ -1390,6 +1371,7 @@ textarea {
   font-size: 18px;
   color: black;
   font-family: "Josefin Sans", cursive;
+  margin-top: 10px;
 }
 
 textarea:focus {
@@ -1400,7 +1382,7 @@ textarea:focus {
 .contact {
   display: block;
   width: 400px;
-  height: 35px;
+  height: 28px;
   border: 1px solid black;
 }
 
