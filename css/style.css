@@ -106,7 +106,7 @@ MAIN LOGO - CAROUSEL OF IMAGES
 .gallery-cell {
   width: 100%;
   height: 200px;
-  margin-right: 10px;
+  /*margin-right: 10px;*/
   background: #54C0B7;
   counter-increment: gallery-cell;
 }
