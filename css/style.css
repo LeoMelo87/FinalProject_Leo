@@ -1391,7 +1391,6 @@ textarea:focus {
   width: 400px;
   height: 300px;
   border: 1px solid black;
-  /*text-align: justify;*/
   vertical-align: text-top;
 }
 
