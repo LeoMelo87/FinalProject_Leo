@@ -62,13 +62,7 @@ button {
 
 .mainmenu ul {
   clear: both;
-  /*float: none;*/
   margin: 0 auto;
-  /*float: right;
-  width: 70%;*/
-  /*text-align: right;*/
-  /*margin-top: 40px;*/
-  /*padding-left: 50px;*/
   max-height: 0;
   opacity: 0;
   overflow: hidden;
@@ -521,6 +515,23 @@ POST BODY - KENWOOD HOUSE
   color: #cf5d3c;
 }
 
+.social-share-title {
+  color: black;
+  text-transform: uppercase;
+  font-family: "jenna_sueregular", sans-serif;
+  font-size: 2em;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.social-share {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
 
 /************************
 TRENDS AND LIFESTYLE PAGE
@@ -1217,6 +1228,24 @@ POST BODY - KENWOOD HOUSE
 
 .out-links:hover {
   color: #cf5d3c;
+}
+
+.social-share-title {
+  color: black;
+  text-transform: uppercase;
+  font-family: "jenna_sueregular", sans-serif;
+  font-size: 36px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.social-share {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
 }
 
 
